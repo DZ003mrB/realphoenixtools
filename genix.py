@@ -128,20 +128,20 @@ def print_to_file(filename, unique_list_finished):
         + filename
         + "\033[1;m and shoot! Good luck!"
     )
-    print("ketik fb.php lalu klik enter")
+    print("ketik python2 facenix.py lalu klik enter")
 
 
 def print_cow():
     print(" ___________ ")
-    print(" \033[07m  cupp.py! \033[27m                # Common")
-    print("      \                     # User")
+    print(" \033[07m  genix.py! \033[27m                # Common")
+    print("      \                     # user")
     print("       \   \033[1;31m,__,\033[1;m             # Passwords")
     print("        \  \033[1;31m(\033[1;moo\033[1;31m)____\033[1;m         # Profiler")
     print("           \033[1;31m(__)    )\ \033[1;m  ")
     print(
         "           \033[1;31m   ||--|| \033[1;m\033[05m*\033[25m\033[1;m      [ PHOENIX | +628211-0677-645 ]"
     )
-    print(28 * " " + "[ Mebus | https://github.com/Mebus/]\r\n")
+    print(28 * " " + "Please donate to | 085889379381]\r\n")
 
 
 def version():
